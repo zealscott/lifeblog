@@ -38,7 +38,8 @@ enableGitInfo = false
 enableRobotsTXT = false
 
 # 每一分页的文章数（仅对「文章摘要」首页布局有效）
-paginate = 5
+[pagination]
+    pagerSize = 5
 
 
 # URL 相关
@@ -143,9 +144,7 @@ uglyURLs = false
     page = ["HTML"]
     home = ["HTML", "SectionsAtom", "SectionsRSS", "SearchIndex"]
     section = ["HTML"]
-    # 类别
-    taxonomyTerm = ["HTML"]
-    # 类别项
+    # 类别和类别项（taxonomyTerm 已弃用，统一使用 taxonomy）
     taxonomy = ["HTML"]
     # 说明：https://github.com/gohugoio/hugo/issues/4528#issuecomment-508488859
 
