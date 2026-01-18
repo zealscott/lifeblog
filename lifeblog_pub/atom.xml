@@ -1,0 +1,808 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
+    <title type="text">瞬</title>
+    <subtitle type="html">the life blog of zealscott</subtitle>
+    <updated>2023-04-20T20:28:27&#43;08:00</updated>
+    <id>https://life.zealscott.com/</id>
+    <link rel="alternate" type="text/html" href="https://life.zealscott.com/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://life.zealscott.com/atom.xml" />
+    <author>
+            <name>Scott</name>
+            <uri>https://life.zealscott.com/</uri>
+            
+                <email>dytscott@gmail.com</email>
+            </author>
+    
+    <generator uri="https://gohugo.io/" version="0.79.0">Hugo</generator>
+        <entry>
+            <title type="text">2022: 青空之蓝</title>
+            <link rel="alternate" type="text/html" href="https://life.zealscott.com/introspection/2022-introspection/" />
+            <id>https://life.zealscott.com/introspection/2022-introspection/</id>
+            <updated>2023-01-02T23:11:36&#43;08:00</updated>
+            <published>2022-12-30T20:10:21&#43;08:00</published>
+            <author>
+                    <name>Scott</name>
+                    <uri>zealscott.com</uri>
+                    <email>dytscott@gmail.com</email>
+                    </author>
+            <summary type="html">转眼间距离上次记录已经三年了。三年前的我在备忘录上给自己写了一句话： Do not be sorry, be better. 如果…</summary>
+            
+                <content type="html">&lt;p&gt;转眼间距离上次记录已经三年了。三年前的我在备忘录上给自己写了一句话：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Do not be sorry, be better.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;如果有机会回到过去，我想拍拍他的肩，说，嘿，我们做到了。&lt;/p&gt;
+&lt;h1 id=&#34;一&#34;&gt;一&lt;/h1&gt;
+&lt;p&gt;严格意义上来说，今年才是我真正迈入 Research 的一年。前两年的努力总算有了回报，上半年的三篇一作论文都被顺利接受，给我了不少鼓舞和惊喜。后面在 SIGIR 上同一个 Session 我独自汇报两篇工作，当 Chair 笑着说 Let&#39;s welcome Yuntao again，我想那一切都是值得的。&lt;/p&gt;
+&lt;img src=&#34;https://life.zealscott.com/images/introspection/sigir22.jpg&#34; width=90% title=&#34;SIGIR 2022&#34;&gt;
+&lt;hr&gt;
+&lt;p&gt;不过那时候我依然没想着要走科研方向，依然是和所有毕业生一样，准备面试、准备实习。但等当我把心仪的 offer 都拿到，与各种业界前辈有了接触后，反而开始犹豫起来：「这是我想做的事情吗？」「这会是我想要成为的人吗？」当回答有太多次否定后，我知道自己需要改变。&lt;/p&gt;
+&lt;p&gt;可改变从来都没那么容易。虽然周围所有人都护着我说支持，但我知道 TA 也在深夜睡不着觉；也不是所有人都理解我在做什么，尤其是在年末的一系列事情后，我也会对未来的生活感到迷茫，对已经拥有的一切念念不舍。但每当我看见宿舍门贴着竺老的两问：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;你到浙大来做什么？将来毕业后要做什么样的人？&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;总是能给我重新上路的勇气。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;如三年前的自己一样，我依然会在一个人的时候看「头文字 D」。在北京实习的时候，晚上穿过已经冷清的中关村大街回到房间，不舍得睡觉，一遍又一遍温习着属于拓海的那个夏天。即使如拓海那样的天才车手，也依然会对自己有所犹豫。启介看着他浪费自己的天赋，很生气地对他说：&lt;/p&gt;
+&lt;p&gt;“如果一直想着「不可能办到」，那比赛就别比了。”&lt;/p&gt;
+&lt;p&gt;“一直考虑这里是否可以超车，结果就是超不了。”&lt;/p&gt;
+&lt;p&gt;“一定要拿出气魄，即使很勉强也要超过去。”&lt;/p&gt;
+&lt;p&gt;“这样想的话，每个弯道都是超车点。”&lt;/p&gt;
+&lt;h1 id=&#34;二&#34;&gt;二&lt;/h1&gt;
+&lt;p&gt;三年前的犹豫、怀念和失落随着时间已经消散，正如我也知道现在的纠结、不舍和迷茫也会有一天随风而去。&lt;/p&gt;
+&lt;p&gt;值得骄傲的是，我想我依然拥有着那份对自己所做之事的赤诚和热爱，甚至更加明白自己想要做什么，什么样的事情能带给我真正的成就感。&lt;/p&gt;
+&lt;p&gt;热爱的东西也许根本不存在犹豫和困难，就像有人问 George Mallory 为什么想要登上珠峰，他只是淡淡的说道：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;「因为山就在那里。」&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;是啊，因为它就在那里。&lt;/p&gt;
+&lt;img src=&#34;https://life.zealscott.com/images/introspection/msra22.jpg&#34; width=90% title=&#34;MSRA 实习的日子&#34;&gt;
+&lt;h1 id=&#34;三&#34;&gt;三&lt;/h1&gt;
+&lt;p&gt;年底发生了一些不太好的事情，让我不得不重新审视自己。我想起林丹最后一次夺冠后，并没有撕心裂肺的欢呼，他只是蹲在那里很久，享受着属于他那一秒的放松。记者问他：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;林丹，今年你的目标是不是都在备战里约奥运会？如果能拿到第三金，这对你来说意味着什么？&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;他淡淡的说：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我没有想到那么远。我昨天只想到今天的决赛。中国队所有的教练都站在那边，我必须要通过每一次比赛去表现自己，让他们觉得林丹虽然今年 33 岁，但还是可以做到。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;结果大家都知道，林丹并没有如愿夺冠，甚至李宗伟也没有，相约的东京奥运会也因为种种原因只能定格在想象中。&lt;/p&gt;
+&lt;p&gt;这三年给了我足够的好的运气让我横冲直撞，有时候甚至让我忘记了失去和挫败才是人生的常态。我有太多的方向，以至于总是习惯回头看，看我只有一个出发的方向，这就是我去哪里都不怕犯错的理由了。&lt;/p&gt;
+&lt;h1 id=&#34;四&#34;&gt;四&lt;/h1&gt;
+&lt;p&gt;年底在杭州看了今年唯一一场雪，也是第一次看见杭州下雪的样子。每次都是，要离开一个地方的时候，才会感到如此不舍。但这次我知道更加特别一点。西湖就像一位永远愿意聆听且无限包容的老友，三年间所有的情绪都一股脑丢进去却砸不出一点水花。我曾经以为除了家乡，其他地方对我来说都只是过眼烟云。但也许，我与这座城市还有更多的故事。&lt;/p&gt;
+&lt;img src=&#34;https://life.zealscott.com/images/introspection/hangzhou22.jpg&#34; width=60% title=&#34;2022 杭州初雪&#34;&gt;
+&lt;h1 id=&#34;五&#34;&gt;五&lt;/h1&gt;
+&lt;p&gt;今年认识了一位很特别的人，Y。实际上与 Y 并不是初识了，但并没有什么机会好好交往。很偶然的机会和 Y 相识相知，心里说不出的欣喜和激动。那种只需要看着她的眼睛就能知道她内心情绪的感应，以及不需要理由的信任和默契，让我怦然心动又觉得如此的不真实。我总是认为在这世界里找到与自己最契合的那个人的概率是如此的渺小，以至于当我找到的时候，又想给自己找其他借口。&lt;/p&gt;
+&lt;p&gt;可是，哪有什么其他借口呢。我就是想和她在一起、一直在一起。我想要带给她快乐，也贪婪的享受她给予的快乐。&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;我知道，这就是我的月亮。&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;我很庆幸，有那么一瞬间，月亮照到过我身上，我也抓到了她。这大抵就是 2022 年，我最大的幸福和幸运吧。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;年底第一次没有回家，和她一起度过了温暖又难忘的 2022 最后一夜。我们一起去河边放走满怀期待的小纸船，一起牵着手奔向今年最期待的电影，一起拍照留念。小船飘向哪里也许并不重要，但重要的是，他们始终紧紧依偎在一起。&lt;/p&gt;
+&lt;img src=&#34;https://life.zealscott.com/images/introspection/withY2022.jpg&#34; width=90% title=&#34;2023 许愿小纸船&#34;&gt;
+&lt;h1 id=&#34;六&#34;&gt;六&lt;/h1&gt;
+&lt;p&gt;年底看了很喜欢的 Up 主 Tim 做的短片&lt;a href=&#34;https://www.bilibili.com/video/BV1ED4y1Y7dc/&#34;&gt;「一位粉丝想看到自己奔跑的样子」&lt;/a&gt;，很受感动。原来我们也可以用自己的方式，在看似毫不沾边的领域，为他人带来美好。我想我能做的还有很多。毕竟，哪有让自己爱的人感到幸福，更快乐的事呢。&lt;/p&gt;
+&lt;p&gt;小时候很喜欢蓝色，曾经把自己房间涂成蓝色，想要离天空和大海更近一些。长大后，很幸运自己也能逐渐成为别人的一片天空，一片海洋。所以，Stay blue 吧~&lt;/p&gt;
+&lt;h1 id=&#34;七&#34;&gt;七&lt;/h1&gt;
+&lt;p&gt;今年的年度歌曲，就留给「空の青さにみせられて」吧。&lt;/p&gt;
+&lt;br&gt; 
+&lt;p&gt;空の青さにみせられて&lt;/p&gt;
+&lt;p&gt;鳥たちは今日も羽ばたいてる&lt;/p&gt;
+&lt;p&gt;そんな風に君と僕とで&lt;/p&gt;
+&lt;p&gt;ふたりで愛を繋いでいこうよ&lt;/p&gt;
+&lt;p&gt;空の青さにみせられて&lt;/p&gt;
+&lt;p&gt;鳥たちは今日も羽ばたいてる&lt;/p&gt;
+&lt;p&gt;そんな風に君と僕とで&lt;/p&gt;
+&lt;p&gt;ふたりでせーので飛んでみようよ&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;让我们牵着手一起坚定的走下去吧。&lt;/p&gt;
+&lt;br&gt; 
+&lt;p&gt;2022 于杭州&lt;/p&gt;
+</content>
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                        
+                            <category scheme="https://life.zealscott.com/introspection/" term="introspection\" label="introspection\" />
+                        
+                    
+                
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://life.zealscott.com/tags/introspection/" term="introspection" label="introspection" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">非暴力沟通</title>
+            <link rel="alternate" type="text/html" href="https://life.zealscott.com/life/nonviolent-communication/" />
+            <id>https://life.zealscott.com/life/nonviolent-communication/</id>
+            <updated>2020-09-07T20:08:48&#43;08:00</updated>
+            <published>2020-07-16T18:18:21&#43;08:00</published>
+            <author>
+                    <name>Scott</name>
+                    <uri>zealscott.com</uri>
+                    <email>dytscott@gmail.com</email>
+                    </author>
+            <summary type="html">当我们褪去隐藏的精神暴力，爱将自然流露。</summary>
+            
+                <content type="html">&lt;h4 id=&#34;概念非暴力沟通&#34;&gt;概念：非暴力沟通&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;「非暴力沟通」是一种沟通方式，也被称为「爱的语言」。它是一种持续不断的提醒，提醒我们专注于彼此的观察、感受、需要和请求。它希望达成的是：帮助我们在诚实和倾听的基础上与人联系。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;「非暴力沟通」的四个要素：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;观察&lt;/strong&gt;：清晰地表达观察的结果，注意区分和评论之间的关系；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;感受&lt;/strong&gt;：清晰的表达感受，注意区分和想法之间的关系；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;需要&lt;/strong&gt;：是感受的来源；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;请求&lt;/strong&gt;：提出具体的请求，注意区分和命令之间的关系&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;「异化的沟通方式」包括：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;道德评判&lt;/strong&gt;：用自己的标准（价值观、信念）等来衡量、要求别人，将责任归咎于对方&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;进行比较&lt;/strong&gt;：这种方式使我们蒙蔽了对自己和对他人的爱&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;回避责任&lt;/strong&gt;：日常生活中许多表达方式暗含了对于责任的回避，如“我不得不……”，“是你让我……”&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;强人所难&lt;/strong&gt;：要求和命令别人&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;异化的沟通方式与非暴力沟通相悖，它忽视自己和他人的感受、需要和请求。&lt;/p&gt;
+&lt;h4 id=&#34;非暴力沟通的四个要素&#34;&gt;非暴力沟通的四个要素&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;观察：勿与评论混淆&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;观察的语言表达：在特定的时间、地点和情境中，清晰的行为结果。观察是要有..依据和事实证明..的，比如具体的时间点、频率、某个具体的方面、数额等。&lt;/li&gt;
+&lt;li&gt;经常会出现的问题
+&lt;ul&gt;
+&lt;li&gt;使用的语言没有体现出评论的人对其评论..负有责任..&lt;/li&gt;
+&lt;li&gt;把预测当成事实&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;感受：勿与想法混淆&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;清晰表达自己的感受&lt;/li&gt;
+&lt;li&gt;第一，要区分哪些是感受。「我觉得」、「我以为」不是在表达感受，「被xxx」（如被抛弃、被误解、被欺负、被利用等）也不是在表达感受&lt;/li&gt;
+&lt;li&gt;第二，建立感受的词汇库&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;需要：是感受的来源&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;感受和需要之间的关系：我们的需要、期待、对他人言行的看法，导致了我们的感受。因而，不是追究别人的责任，而是&lt;strong&gt;体察感受背后的自我需要&lt;/strong&gt;：我的哪些需要、期待或价值取向没有得到满足？&lt;/li&gt;
+&lt;li&gt;需要是一座桥梁，架起了我们和感受之间的关系，将表达与回应放到到自己身上，推荐表达感受的句式：“我（感到）……，因为我（希望/重视/想要）……”&lt;/li&gt;
+&lt;li&gt;非暴力沟通提倡直接表达自己的需要，而不是通过指责、批评、评论以及分析的方式。这有助于对方准确地了解我们的需要，同时也提供了对方做准确回应的机会。&lt;/li&gt;
+&lt;li&gt;人的基本需要包括：自由选择、庆祝、言行一致、滋养身体、玩耍、情意相通、相互依存。
+&lt;ul&gt;
+&lt;li&gt;Ref：马斯洛的需求层次理论、舒茨的人际需要理论、麦克利兰的需要理论和奥尔德弗的ERG理论&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;请求：提出具体的、正向的，而不是抽象的、负向的请求&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;请求的艺术
+&lt;ul&gt;
+&lt;li&gt;提出具体的，而不是抽象的&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;提出需要做的是什么，而不是..不要..做什么&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;同时要伴随着自己的感受和需要&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;请求对方的反馈&lt;/strong&gt;，确保我们的意思与对方的理解相同&lt;/li&gt;
+&lt;li&gt;明确谈话的目的，诸如我们询问对方的建议时，可以这样说：「我想请你谈谈我的建议是否有可行性，如果不太可行，那根据你的判断，哪些因素会妨碍建议的实施呢？」&lt;/li&gt;
+&lt;li&gt;在集体讨论的时候明确发言的目的&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;区分请求与命令的
+&lt;ul&gt;
+&lt;li&gt;请求没有得到满足时，提出请求的人如果批评和职责，那就是命令&lt;/li&gt;
+&lt;li&gt;如果想利用对方的内疚来达到目的，也是命令&lt;/li&gt;
+&lt;li&gt;在人们无法满足我们的愿望时，我们是否尊重他们的感受和需要&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;什么时候会变成命令？
+&lt;ul&gt;
+&lt;li&gt;如果我们过去常常指责别人；&lt;/li&gt;
+&lt;li&gt;如果对方经常受到指责；&lt;/li&gt;
+&lt;li&gt;如果我们将他人的不顺从看作是对我们的排斥；&lt;/li&gt;
+&lt;li&gt;如果我们有以下想法：TA应该/应当/必须……&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;非暴力沟通的目的不是为了改变别人来迎合我们，相反，非暴力沟通重视每个人的需要，目的是帮助我们在诚实和倾听上与人联系。&lt;/strong&gt;&lt;/p&gt;
+&lt;h4 id=&#34;全身心地倾听别人&#34;&gt;全身心地倾听别人&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;遭遇他人痛苦时，我们常常急于提意见，安慰或表达我们的态度和感受。但倾听意味着全心全意地体会他人的信息——这为他人充分表达痛苦创造了条件。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;学习使用非暴力沟通的四个要素去体察别人的&lt;strong&gt;观察、感受、需要和请求&lt;/strong&gt;，并将它们表达出来。
+&lt;ul&gt;
+&lt;li&gt;是否急于提建议、安慰或表达态度、感受？&lt;/li&gt;
+&lt;li&gt;在非暴力沟通中，倾听意味着放下已有的想法、判断，一心一意地体会他人。不做..否定..、不做..分析..、不做..建议..、也不做..辩解..，也不要着急揭露对方的需要，基于其表达感受的空间，让其感受得以释放。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;试图分析问题妨碍了我们与他人的联系。如果我们只是关心别人说了什么，并考虑他的情况符合哪种理论，我们是在诊断人——我们并没有倾听他人。&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;把注意力放在对方需要什么，而不是自己做错了什么。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;给他人反馈
+&lt;ul&gt;
+&lt;li&gt;非暴力沟通建议我们用疑问句来给予他人反馈，我们的问题可以集中在对他人的观察、感受、需要和请求方面，同时注意在表达时需要具体。
+&lt;ol&gt;
+&lt;li&gt;他人的观察：「上周我有三个晚上不在家，你是说的这回事吗？」&lt;/li&gt;
+&lt;li&gt;他人的感受及需要：「你很灰心？你希望得到肯定是吗？」&lt;/li&gt;
+&lt;li&gt;他人的请求：「你是不是想请我帮你预定就酒店？」&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;语气很重要，一个人在听别人谈自己的感受和需要时，会留意其中是否暗含着批评或讽刺。因此语气不能很肯定或者下结论。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;有时，我们认为自己收到了指责，实际上，那些话是他人表达需要和请求的方式。&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;保持关注
+&lt;ul&gt;
+&lt;li&gt;在解决问题或询问他人的请求前，为他人的充分表达创造条件，直到对方感到轻松为止。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;当我们痛苦得无法倾听
+&lt;ul&gt;
+&lt;li&gt;「你越是留意自己内心的声音，就越能听到别人的声音」&lt;/li&gt;
+&lt;li&gt;我们需要体会自己的感受和需要、大声的提出请求、换一个环境。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;倾听的力量&#34;&gt;倾听的力量&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;倾听和示弱的能力
+&lt;ul&gt;
+&lt;li&gt;我们最不愿意示弱的时候，往往是因为担心失去控制想显得强硬的时候。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;倾听预防潜在的暴力
+&lt;ul&gt;
+&lt;li&gt;在一个人生气的时候，永远不要用「不过」，「可是」，「但是」（为自己辩护的词语），要倾听他的需要和感受&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;爱自己&#34;&gt;爱自己&lt;/h4&gt;
+&lt;p&gt;1、转变自我评价方式&lt;/p&gt;
+&lt;p&gt;当我们骂自己、责备自己，表现在语言上，用“你应该”、“你不得不”时，我们可以去体察自己的需要，正是那些未被满足的需要使得我们产生自责、羞愧、内疚。如果我们抱着去满足自己需要的态度，而不是为了出于羞愧、内疚或者是逃避责任、获得某种回报的态度去回应我们的需要时，我们将会获得自我宽恕，重获生命的热情。&lt;/p&gt;
+&lt;p&gt;深入理解我们行为的动机——发现我们行为背后的价值取向——我们在生活中在乎什么？看重什么？&lt;/p&gt;
+&lt;p&gt;2、充分表达愤怒&lt;/p&gt;
+&lt;p&gt;1）停下来，除了呼吸，什么都别做；
+2）想一想，是什么想法使我们生气了；
+3）体会自己的需要；&lt;/p&gt;
+&lt;p&gt;4）表达我们的感受和尚未满足的需要&lt;/p&gt;
+&lt;p&gt;3、表达感激&lt;/p&gt;
+&lt;p&gt;1）说出对我们有益的行为；
+2）说出我们的哪些需要得到了满足；
+3）我们的需要得到满足后，我们是什么样的心情。&lt;/p&gt;
+</content>
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                        
+                            <category scheme="https://life.zealscott.com/life/" term="life\" label="life\" />
+                        
+                    
+                
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://life.zealscott.com/tags/reading/" term="reading" label="reading" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Do not go gentle into that good night</title>
+            <link rel="alternate" type="text/html" href="https://life.zealscott.com/life/do-not-go-gentle-into-that-good-night/" />
+            <id>https://life.zealscott.com/life/do-not-go-gentle-into-that-good-night/</id>
+            <updated>2020-06-06T16:18:14&#43;08:00</updated>
+            <published>2020-06-06T13:18:21&#43;08:00</published>
+            <author>
+                    <name>Scott</name>
+                    <uri>zealscott.com</uri>
+                    <email>dytscott@gmail.com</email>
+                    </author>
+            <summary type="html">Dylan Thomas</summary>
+            
+                <content type="html">&lt;blockquote&gt;
+&lt;p&gt;Do not go gentle into that good night,&lt;/p&gt;
+&lt;p&gt;Old age should burn and rave at close of day;&lt;/p&gt;
+&lt;p&gt;Rage, rage against the dying of the light.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Though wise men at their end know dark is right,&lt;/p&gt;
+&lt;p&gt;Because their words had forked no lightning they&lt;/p&gt;
+&lt;p&gt;Do not go gentle into that good night.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Good men, the last wave by, crying how bright&lt;/p&gt;
+&lt;p&gt;Their frail deeds might have danced in a green bay,&lt;/p&gt;
+&lt;p&gt;Rage, rage against the dying of the light.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Wild men who caught and sang the sun in flight,&lt;/p&gt;
+&lt;p&gt;And learn, too late, they grieved it on its way,&lt;/p&gt;
+&lt;p&gt;Do not go gentle into that good night.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Grave men, near death, who see with blinding sight&lt;/p&gt;
+&lt;p&gt;Blind eyes could blaze like meteors and be gay,&lt;/p&gt;
+&lt;p&gt;Rage, rage against the dying of the light.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;And you, my father, there on the sad height,&lt;/p&gt;
+&lt;p&gt;Curse, bless me now with your fierce tears, I pray.&lt;/p&gt;
+&lt;p&gt;Do not go gentle into that good night.&lt;/p&gt;
+&lt;p&gt;Rage, rage against the dying of the light.&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                        
+                            <category scheme="https://life.zealscott.com/life/" term="life\" label="life\" />
+                        
+                    
+                
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://life.zealscott.com/tags/poerty/" term="poerty" label="poerty" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://life.zealscott.com/tags/sonder/" term="sonder" label="sonder" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">不跟随</title>
+            <link rel="alternate" type="text/html" href="https://life.zealscott.com/life/unfollow/" />
+            <id>https://life.zealscott.com/life/unfollow/</id>
+            <updated>2020-05-29T13:00:13&#43;08:00</updated>
+            <published>2020-05-28T18:18:21&#43;08:00</published>
+            <author>
+                    <name>Scott</name>
+                    <uri>zealscott.com</uri>
+                    <email>dytscott@gmail.com</email>
+                    </author>
+            <summary type="html">在某个值得纪念的夏天，海浪带走了我湖蓝色的 N9，以及某些闪烁其词的回忆</summary>
+            
+                <content type="html">&lt;img src=&#34;https://life.zealscott.com/images/life/n9 1.jpg&#34;  width=80% title=&#34; 🌊&#34;&gt;
+&lt;blockquote&gt;
+&lt;p&gt;如果多一次选择 你想变成谁？&lt;/p&gt;
+&lt;p&gt;不，这不是选择 而是对自己的怀疑。&lt;/p&gt;
+&lt;p&gt;我能经得住多大诋毁 就能担得起多少赞美。&lt;/p&gt;
+&lt;p&gt;如果忍耐算是坚强 我选择抵抗；&lt;/p&gt;
+&lt;p&gt;如果妥协算是努力 我选择争取；&lt;/p&gt;
+&lt;p&gt;如果未来才会精彩 我也绝不放弃现在。&lt;/p&gt;
+&lt;p&gt;你也许认为我疯狂 就像我认为你太过平常。&lt;/p&gt;
+&lt;p&gt;我的真实 会为我证明自己&lt;/p&gt;
+&lt;p&gt;诺基亚N9 不跟随&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;8 年后再次看见它时，还是被它的美所深深吸引。一种独特、冷静又极具诱惑力的美。&lt;/p&gt;
+&lt;img src=&#34;https://life.zealscott.com/images/life/n9 2.jpg&#34;  width=90%&gt;
+&lt;p&gt;不禁想起 John Keats 的一句诗：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;A thing of beauty is a joy forever: its loveliness increases; it will never pass into nothingness.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;「不跟随」的勇气，我到现在还留着。&lt;/p&gt;
+</content>
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                        
+                            <category scheme="https://life.zealscott.com/life/" term="life\" label="life\" />
+                        
+                    
+                
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://life.zealscott.com/tags/memories/" term="memories" label="memories" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">唐先生</title>
+            <link rel="alternate" type="text/html" href="https://life.zealscott.com/life/mr-tang/" />
+            <id>https://life.zealscott.com/life/mr-tang/</id>
+            <updated>2020-03-13T23:26:12&#43;08:00</updated>
+            <published>2020-03-11T18:18:21&#43;08:00</published>
+            <author>
+                    <name>Scott</name>
+                    <uri>zealscott.com</uri>
+                    <email>dytscott@gmail.com</email>
+                    </author>
+            <summary type="html">偶然翻到自己初中写过的一篇文章，稚嫩间却充满真情，纪念一下。</summary>
+            
+                <content type="html">&lt;p&gt;坦白地说，用先生这个词，我是斟酌很久的。一定是我词汇太贫乏，以至于竟不知用什么来描述您。当然，更多的时候，您是老师，是长者。&lt;/p&gt;
+&lt;p&gt;​&lt;/p&gt;
+&lt;p&gt;我知道您是很讲究的。扣子总是钉那么严谨，头发油光可鉴，略卷的刘海也是一丝不苟，最有特色的还是那圆框的黑色眼睛和正襟危坐的小胡须。说实话，您是我见过的第一个像古人描述的那般，说是学究也不为过。&lt;/p&gt;
+&lt;p&gt;​&lt;/p&gt;
+&lt;p&gt;当我拿起毛笔，您用您的手帮我临摹的时候，我就已经着迷了。但这竟然有许多不是由于书法，而是因为您。到现在我都依稀记得您的每一堂课，那样自然，那样风趣，那样潇洒。当然您不仅仅教我们书法，您也会说说古代历史，有兴趣的时候也会谈谈自己年轻的时候。&lt;/p&gt;
+&lt;p&gt;​&lt;/p&gt;
+&lt;p&gt;在我的印象里，您总是那么博学。似乎能吟出每一首佳词，侃出每一件风流，描出每个体的繁体字。与其说教书法是一种工作，倒不如说是一种乐趣，我知道您是不为这点闲钱的。每次写完字您都会抽起一根烟，雾气弥漫在您早已黑透的牙缝间，再慢慢舒展开来，那神情教像在欣赏一件艺术品。&lt;/p&gt;
+&lt;p&gt;​    &lt;br&gt;
+那的确是艺术品。&lt;/p&gt;
+&lt;p&gt;在少年宫毕业后怀着不减的热情继续到您家里学习。对第一天去您家的印象极其深刻。满满的一间屋子里塞满了宣纸砚台篆刻和大匾，墨香顿时让我感觉温暖起来。您甚至拿镀金的镇尺给我们用。也的确那两年我的书法突飞猛进。&lt;/p&gt;
+&lt;p&gt;​&lt;/p&gt;
+&lt;p&gt;也记得那个最后的夏天，我本是想和他们一样学篆刻的。但您却不同意。您说我基础毕竟好应该继续练书法。可想而知我是不太高兴的，因为我对篆刻是很感兴趣的。如果以后有机会，我还是会学篆刻。&lt;/p&gt;
+&lt;p&gt;​&lt;/p&gt;
+&lt;p&gt;还记得您的好友胡先生，是教硬笔书法的，听您说篆刻一流。也是听您提起过他说他家里人都移民了，只有他们两个老伴不肯去。我能想到这里面的缘由。像您们这样热衷传统的人越来越少，但有一天会发现这才是我们的本性，一直如此流在我们血脉中的中国古人般的哲学。&lt;/p&gt;
+&lt;p&gt;​&lt;/p&gt;
+&lt;p&gt;印象中的您总是带着笑。嘴角微微上扬，那样闲适，那样轻盈，那样自然。我也确实是很羡慕您的，无论什么情况都有那么令人放心的笑，那样自信的笑。我也曾傻乎乎地去模仿，但却坚持不下来。&lt;/p&gt;
+&lt;p&gt;​&lt;/p&gt;
+&lt;p&gt;因为那不是学来的。&lt;/p&gt;
+&lt;p&gt;​&lt;/p&gt;
+&lt;p&gt;如果说描述古人骚客用陈腐中庸豁达自然，那您也该差不多如此。所以在现代社会中您就像一个小丑那样与众不同，也不是说格格不入。但您总是能保持心中那一片湖的宁静，这很是让我羡慕。&lt;/p&gt;
+&lt;p&gt;​&lt;/p&gt;
+&lt;p&gt;想起您是因为几天前整理书架，翻到您赠我的董其昌写的赤壁赋，上面俨然写着02年冬购于北京，还有您的章。我很是喜欢这本意义重大的书。虽然离开您已两年了，期间也因各种借口很少动笔，但闻到墨香的那种淡然早已刻入我的血液。&lt;/p&gt;
+&lt;p&gt;​&lt;/p&gt;
+&lt;p&gt;您更像我的长者，我的启蒙老师。恐怕我从小在各类作文中写得最多的人物也是您了。您总是有那样一种魅力让我回味无穷，恐怕悟透还要很长一段时间。&lt;/p&gt;
+&lt;p&gt;​&lt;/p&gt;
+&lt;p&gt;更多的话也不知从何说起。说来惭愧，两年我都没有去看过您一次，我也不知道为什么，其实我很想见您，但总觉得愧对那只干涸的笔。&lt;/p&gt;
+&lt;p&gt;​&lt;/p&gt;
+&lt;p&gt;寒风袭来，愿墨香足够温暖。&lt;/p&gt;
+&lt;p&gt;​&lt;/p&gt;
+&lt;p&gt;拙生&lt;/p&gt;
+&lt;p&gt;于10.19夜&lt;/p&gt;
+</content>
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                        
+                            <category scheme="https://life.zealscott.com/life/" term="life\" label="life\" />
+                        
+                    
+                
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://life.zealscott.com/tags/memories/" term="memories" label="memories" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Films in 2020</title>
+            <link rel="alternate" type="text/html" href="https://life.zealscott.com/life/films-20/" />
+            <id>https://life.zealscott.com/life/films-20/</id>
+            <updated>2020-04-21T20:48:07&#43;08:00</updated>
+            <published>2020-03-06T18:18:21&#43;08:00</published>
+            <author>
+                    <name>Scott</name>
+                    <uri>zealscott.com</uri>
+                    <email>dytscott@gmail.com</email>
+                    </author>
+            <summary type="html">伦敦生活 Fleabag：一部充满讽刺和黑色幽默的英式喜剧，讲述女主在友情、亲情、爱情…</summary>
+            
+                <content type="html">&lt;img src=&#34;https://life.zealscott.com/images/poster/films2020-1.jpg&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://movie.douban.com/subject/27053768/&#34;&gt;&lt;strong&gt;伦敦生活 Fleabag&lt;/strong&gt;&lt;/a&gt;：一部充满讽刺和黑色幽默的英式喜剧，讲述女主在友情、亲情、爱情间的挣扎，维持表面式人生，我们又何尝不是这样呢。
+&lt;img src=&#34;https://life.zealscott.com/images/life/fleabag 1.jpg&#34; width = 70%&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://movie.douban.com/subject/30390700/&#34;&gt;美国工厂 American Factory&lt;/a&gt;&lt;/strong&gt;：看它是因为它得了奥斯卡最佳纪录长片。不得不承认美国做的这个纪录片还是很写实的，中国工厂中劳动力的压榨、军事化管理，美国工人的懒散、工会的弊端，各种冲突赤裸裸地展现在这个有着中文名字的美国工厂中：「 Fuyao Glass America Inc.」。而本片引申出了更深刻的问题：全球化的经济和文化下对普通人的生活将产生多大的影响？&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://movie.douban.com/subject/27060077/&#34;&gt;绿皮书 Green Book&lt;/a&gt;&lt;/strong&gt;：影片将种族冲突、阶级冲突巧妙的融合在一起：一个懂艺术的黑人博士，一个粗鲁的白人司机，多么有趣的设定。「如果我不够黑人，也不够白人，又或不够男人，那请你告诉我，托尼，那我到底算是什么人？！」作为一部公路片，从两个人开始的矛盾抵触、到心心相惜互相帮助、最后托尼邀请雪利到家里过圣诞节，整片充满温情、理解与感动。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://movie.douban.com/subject/6538866/&#34;&gt;&lt;strong&gt;极速车王 Ford v Ferrari&lt;/strong&gt;&lt;/a&gt;：作为一个 petrolhead，这是我看过最好的赛车电影。讲述了赛车历史上非常经典的一段勒芒赛车历史，两位传奇人物「Ken Miles」、「Carroll Shelby」，一辆传奇赛车「Ford GT40」。怀念那个疯狂的时代，那时候的汽车没有那么智能、赛车也异常危险，可有着世界上最热爱汽车的天才，最淋漓尽致的热爱。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;img src=&#34;https://life.zealscott.com/images/life/ford 1.jpg&#34; width = 70% title=&#34;Go like hell&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://movie.douban.com/subject/27072327/&#34;&gt;進撃の巨人 Season 3&lt;/a&gt;&lt;/strong&gt;： 从第一季追到第三季，巨壁内外的世界线索越来越清晰，矛盾却越来越冲突，无论是制作、剧情、音效，都堪称完美，豆瓣高达 9.6 的评分，可以算是封神之作了。我写了一篇&lt;a href=&#34;https://life.zealscott.com/life/shingeki-3/&#34;&gt;小文&lt;/a&gt;特此纪念。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;img src=&#34;https://life.zealscott.com/images/poster/films2020-2.jpg&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://movie.douban.com/subject/3205624/&#34;&gt;社交网络&lt;/a&gt;&lt;/strong&gt;：从 Zuckerberg 的发家史讲起，最初只是校内一个给女生评分的平台。天才的他不善言辞、不会运动、不苟言笑，以超出常人的思维能力和直接了当与哈佛的「优等生」显得格格不入，是的，他是很酷。可影片贯穿全剧的却是其与好朋友的官司，有钱有权了，却和最好的朋友分道扬镳，永远也追不到心爱的女孩。影片节奏非常快，人物渲染富有张力，让人深思与感叹。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://movie.douban.com/subject/6803494/&#34;&gt;极速风流 Rush&lt;/a&gt;:&lt;/strong&gt; Niki 和 Hunt 是赛车史上的传奇。正如 Hunt 的座右铭「Sex, Breakfast of Champions」，他对成功的渴望来源于对转瞬即逝的快感的追求。而 Niki 对赛车的热爱来源于自己对极限的挑战，来源于自身的约束。事实上，Niki 远比电影中更为伟大，他是前奔驰车队非行政主席，也是一名飞行员。朝生暮死的快感是人人可以感受到的，因此大家都会羡慕。而 Niki 持之以恒的热爱与追求，在我看来才是真正令人着迷的地方。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://movie.douban.com/subject/27099158/&#34;&gt;早间新闻 The Morning Show&lt;/a&gt;&lt;/strong&gt;：本来对这种题材的 TV show 没什么兴趣，奈何 Apple 给我赠送了一年 Apple TV，因此我就想看看，苹果大力宣传的电视剧到底怎么样。果然没让我失望，这部美剧情节紧凑，演员演技也很到位。最关键的是，导演很巧妙的将职场中存在的潜规则、性骚扰、女性的不利地位都恰到好处的表现了出来，而没有对其加入更多政治倾向（MeToo运动有点矫枉过正）。权利、女人、荣誉、金钱，正是维持这脆弱社会的精神鸦片，大部分时候很爽，但也会让你深陷其中付出代价。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://movie.douban.com/subject/27195119/&#34;&gt;Lee Chong Wei: Rise of the Legend&lt;/a&gt;&lt;/strong&gt;：最近有时间练练羽毛球，突然想到李宗伟的自传电影我都还没看过，赶紧花了两个小时把它看完。我很不喜欢中文译名「败者为王」，如果是「败者」，再怎么也不是传奇吧。但我从不认为李宗伟是「败者」，他是羽坛排名第一最久的运动员，也是三届奥运会的银牌得主，没有人能达到他的高度了。电影本身中规中矩，但对于与之一路走过来的球迷，在最后听见他对小宗伟说「你要成为冠军 拿下奥运会金牌 你必须努力 你将会成为我们国家 拿下第一面羽毛球奥运会金牌」，忍不住的泪流满面。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;img src=&#34;https://life.zealscott.com/images/poster/LCW 2.jpg&#34; width = 70% title=&#34;Thank you, Dato Lee Chong Wei&#34;&gt;
+</content>
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                        
+                            <category scheme="https://life.zealscott.com/life/" term="life\" label="life\" />
+                        
+                    
+                
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://life.zealscott.com/tags/reading/" term="reading" label="reading" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">我们 都是某种事物的奴隶</title>
+            <link rel="alternate" type="text/html" href="https://life.zealscott.com/life/shingeki-3/" />
+            <id>https://life.zealscott.com/life/shingeki-3/</id>
+            <updated>2020-02-21T12:03:51&#43;08:00</updated>
+            <published>2020-02-10T10:18:21&#43;08:00</published>
+            <author>
+                    <name>Scott</name>
+                    <uri>zealscott.com</uri>
+                    <email>dytscott@gmail.com</email>
+                    </author>
+            <summary type="html">我们生来自由，却无往不在枷锁之中</summary>
+            
+                <content type="html">&lt;img src=&#34;https://life.zealscott.com/images/life/shingeki 3.jpg&#34;  width=70% title=&#34;Shingeki Season 3&#34;&gt;
+&lt;p&gt;最近趁着有时间，把「进击的巨人」第二季和第三季都追完了。回想看第一季的时候还是四年前，但宏大的故事背景、细腻的人物描述以及精良的制作，让我记忆犹新。而在第三季里，无论是背景音乐、人物情感还是剧情走线，都达到了新的高度，可以说是我看过最精彩的日漫也不为过。&lt;/p&gt;
+&lt;p&gt;我想，这部漫画最大的魅力，在于所描述的反乌托邦的巨壁内，每个人的行为和情感，在自己的经历和经验范围内，都是合乎常理的。正如兵长所说：「所有人 都是某种事物的奴隶啊」。对于艾伦来说，杀光巨人，为妈妈报仇就是活下来的意义；对于爱尔敏来说，去看看巨壁对面的海，是从小不忘的梦想；对于三笠来说，艾伦就是她的世界...&lt;/p&gt;
+&lt;img src=&#34;https://life.zealscott.com/images/life/shingeki 2.jpg&#34;  width=80% title=&#34;18 集非常感人的一幕&#34;&gt;
+&lt;p&gt;我们何尝又不是在为过去买单。无论是理想也好，仇恨也罢，都是支撑着我们活下去的东西。当到达那个目标点，我们又能做什么呢？正如兵长问艾尔文团长，「知道真相了以后，你想做什么」。团长只是淡淡地说了一句，「不知道」。想到这，我突然冒出一个很奇怪的想法：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;感谢巨人赋予我们意义。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;即使杀光巨人了解真相，也不过是对这个囚笼里的世界多了一丁点儿了解罢了，我们坚定不移追求的，是真正的自由吗？甚至，调查兵团挥舞着右手，说要为全人类献出心脏，其实也不过是巨壁内的一小撮被洗脑的猴子而已，何其讽刺。如果非要说有什么意义的话，我想意义从不在于接近真相，而在于征程上的伙伴、眼泪与坚持。这样想也许会好受一点。&lt;/p&gt;
+&lt;p&gt;纯粹的浪漫主义者总能更打动人，无论是艾伦、爱尔敏、艾尔文...但很遗憾，不是谁都有机会走到梦想的彼岸，当我们踏上这趟征程，都应该知道，「谁都有告别的一天」。&lt;/p&gt;
+&lt;img src=&#34;https://life.zealscott.com/images/life/shingeki 4.jpg&#34;  width=80%&gt;
+&lt;p&gt;也许走到最后，身边的人都离去，甚至坚信不疑的信仰和理想也会崩塌，你会伸出手仰望天空，问自己：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;未来的世界，一定就比过去好吗？&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;谁也不知道。但即便如此，我们也要一直往前走。因为，我们约好「一起去看海」啊。&lt;/p&gt;
+&lt;img src=&#34;https://life.zealscott.com/images/life/shingeki 5.jpg&#34;  width=50%&gt;
+</content>
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                        
+                            <category scheme="https://life.zealscott.com/life/" term="life\" label="life\" />
+                        
+                    
+                
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://life.zealscott.com/tags/movies/" term="movies" label="movies" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://life.zealscott.com/tags/sonder/" term="sonder" label="sonder" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">2019: 飘着</title>
+            <link rel="alternate" type="text/html" href="https://life.zealscott.com/introspection/2019-introspection/" />
+            <id>https://life.zealscott.com/introspection/2019-introspection/</id>
+            <updated>2020-03-16T10:14:45&#43;08:00</updated>
+            <published>2019-12-31T18:18:21&#43;08:00</published>
+            <author>
+                    <name>Scott</name>
+                    <uri>zealscott.com</uri>
+                    <email>dytscott@gmail.com</email>
+                    </author>
+            <summary type="html">早就想写点什么，算是给自己的 2019 年一个交代。在黄昏的西湖边、彻夜难眠的夜晚、吵闹的高铁…</summary>
+            
+                <content type="html">&lt;p&gt;早就想写点什么，算是给自己的 2019 年一个交代。在黄昏的西湖边、彻夜难眠的夜晚、吵闹的高铁上，也胡乱敲打了不少文字。不过大部分只是一瞬间的思绪，真要回味起来，却寻而不得。&lt;/p&gt;
+&lt;p&gt;直到朋友来问我，说我的新年愿望是什么，我这才感到急迫：这一年总归要过去了啊。我连忙悄悄看看去年我写的愿望是啥，于是这几个字浮在眼前：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;多长脑子，少掉头发。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;我哭笑不得，真是美好又真诚的愿望，可惜自己做得并不好。我想年初的自己，也完全想不到，这一年会这么特别吧。&lt;/p&gt;
+&lt;h1 id=&#34;一&#34;&gt;一&lt;/h1&gt;
+&lt;p&gt;从学业上讲，今年并不顺利。先是在出国和保研中犹豫不决；而后又机缘巧合错过了北大的夏令营；最后九推也运气不好，没了名额；还好最终顶住压力，去了浙大。&lt;/p&gt;
+&lt;p&gt;我不想用「运气」来粉饰一切，毕竟自己也做得并不好。虽然早就意识到一些机会且做好了准备，但实在不能说自己就「全力以赴」了。太多的选择让我犹豫不决，讽刺的是，最终却什么也没抓到，也算是深刻的教训吧。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;即便如此，几年来默默的积累和付出，也开始有了回报：三月份在北大老师那边实习，得到了学长的肯定；四月份在师兄的鼓励下参加了阿里的面试，出乎意料地得到了面试官的好评；六月份参加了辅修的毕业论文答辩，算是画上了一个小小的句号；九月份第一次参加了 Google 的开发者大会，对行业的认识更近了一步；十二月去浙大准备写毕业论文，也得到了师兄师姐们的很多帮助...&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://life.zealscott.com/images/introspection/google19.jpg&#34; alt=&#34;google19&#34; title=&#34;Google Developer Days&#34;&gt;&lt;/p&gt;
+&lt;p&gt;我想 2019 对我心态上的影响远大于实际的得失：不会因为一时的失意而难过，也不会因为侥幸的成功而暗自欣喜。我慢慢知道了自己的定位，知道了什么样的是我想要的，什么样的路是我会脚踏实地的走下去的。我想这一切都来源于：..我热爱自己从事的工作和行业..。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Sometimes life hits you in the head with a brick.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Don&#39;t lose faith.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;You&#39;ve got to find what you love.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;二&#34;&gt;二&lt;/h1&gt;
+&lt;p&gt;2019 年也坚持写了不少博客，但大部分是上半年，质量普遍也不够高。很惊喜的是，我收到了很多学弟学妹们的反馈，对我的博客内容表示感激和敬意。但我并不觉得这有什么大不了的，甚至总是因为自己的博客质量不够高、时常的懒惰而感到自责。印象最深的是在优秀学生答辩时，一个我并不认识的学妹说“我一直在看 xxx 的博客，要像学长学习”，我在台下反应了好久，才缓过来她在说我的名字。如果我做的事情，能稍微启发或帮助到大家，就已经非常开心了。&lt;/p&gt;
+&lt;p&gt;还有很多想写的东西，TODO List 都写满了，除了技术博客外，我也想开始维护这一个生活博客，这个博客不会有太多「干货」，大部分只是自己的碎碎念，但也许这就是生活本身。&lt;/p&gt;
+&lt;p&gt;想要做的事还有很多，2020 年我会一一补上，Stay tuned。&lt;/p&gt;
+&lt;h1 id=&#34;三&#34;&gt;三&lt;/h1&gt;
+&lt;p&gt;在感情方面，自己是一个彻底的失败者。我的确努力过，很努力过，可「太过美好的东西，就像一把沙子，握得太紧，会慢慢漏掉」。我想自己还只是一个初学者，也许还要更好的认识自己，才能学着如何去爱他人。&lt;/p&gt;
+&lt;p&gt;年底看了「Lost in translation」这部电影，看着却出神，只记得空镜般的电影场景，浮现这些话：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;那时候特别迷恋，人与人那种，交换几次眼神就可以产生连接的无声电流，两个人轻松、自然、亲密的氛围，那么吸引着我。&lt;/p&gt;
+&lt;p&gt;羡慕那些毫不费力的坦诚，卸下所有装备，一起说去喝酒，而且你也知道，这样的一天，再也不会发生。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;连续两个月，我去了两次北京，看着北京从入秋到深秋，想象着自己与这座陌生又熟悉的城市的羁绊。朋友笑我说，你以前可不喜欢北京啊。这我承认，今年才是我第一次来北京。可带着外公外婆走在北京的街道上，给他们介绍美食美景时，又是那样的毫不费力。外公疑惑的问我，你怎么对北京这么熟悉啊？我一愣，也问自己：我真的熟悉么？&lt;/p&gt;
+&lt;img src=&#34;https://life.zealscott.com/images/introspection/beijing19.jpg&#34;  width=70% title=&#34;北京的秋&#34;&gt;
+&lt;p&gt;年底心情很差，想放纵一下自己，给 Z 发消息说「我想来喝酒」，Z 只说了一句「你来了我安排就好」。大家都知道我从不饮酒，到了 Z 所在到地方，Z 问我「去吗」，我却又毫不犹豫的说，算啦何必呢。&lt;/p&gt;
+&lt;p&gt;是啊，何必呢，道理我都懂，也不需要安慰，只是我还想她。有的时候，你会因为一个人短暂的陪伴而忍受长时间的孤独，也会因为长时间的想念而忘记她早已离开你的生活。&lt;/p&gt;
+&lt;h1 id=&#34;四&#34;&gt;四&lt;/h1&gt;
+&lt;p&gt;最近在看「The Mythical Man-Month」，有一段话很有意思：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;All programmers are optimists. Perhaps this modern sorcery especially attracts those who believe in happy endings and fairy godmothers. Perhaps the hundreds of nitty frustrations drive away all but those who habitually focus on the end goal. Perhaps it is merely that computers are young, programmers are younger, and the young are always optimists. But however the selection process works, the result is indisputable: &amp;quot;This time it will surely run,&amp;quot; or &amp;quot;I just found the last bug.&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;我对生活大部分事情都挺悲观的，但对于我所热爱的事物，却又充满的不切实际的憧憬，真是好气又好笑。年底 「Star War」上映，加上「The mandalorian」的好评，让我这个星战迷兴奋了好久。大家都在说「Baby Yoda」多么多么可爱，我却想起了年轻的 Anakin Skywalker 向 Yoda 询问生命和死亡的真谛，Yoda 说：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&amp;quot;Mourn them, do not. Miss them, do not.&amp;quot;&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;一心想着爱人的 Anakin 自然是听不进去这些太过飘渺和虚幻的道理，正如我也一样。&lt;/p&gt;
+&lt;h1 id=&#34;五&#34;&gt;五&lt;/h1&gt;
+&lt;p&gt;离别是今年的主旋律。今年送走了太多朋友，当然我都替各位开心，大家都朝着自己的梦想奋进，无论在何处。我也逐渐意识到，失去和离开才是人生常态。&lt;/p&gt;
+&lt;p&gt;我也何尝不是在和自己道别呢？&lt;/p&gt;
+&lt;img src=&#34;https://life.zealscott.com/images/introspection/leave19.jpg&#34; width=60% title=&#34;离开重庆的清晨&#34;&gt;
+&lt;p&gt;明年即将毕业，我也即将离开一直喜欢的上海。回想几年前，可从来没想过，这座城市会留给我这么多回忆啊。自己还会飘多久呢，我也不知道。&lt;/p&gt;
+&lt;h1 id=&#34;六&#34;&gt;六&lt;/h1&gt;
+&lt;p&gt;最近看了很多老片，其中就包括「头文字 D」。夏树说：「人最重要的是找到属于自己的世界，只要找到属于自己的世界人生才有意义」。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://life.zealscott.com/images/introspection/initialD.png&#34; width=80% &gt;&lt;/p&gt;
+&lt;p&gt;我想拓海在那个有些聒噪和疯狂的夏天，终于明白了。&lt;/p&gt;
+&lt;h1 id=&#34;七&#34;&gt;七&lt;/h1&gt;
+&lt;p&gt;每年都会听「倒数」，虽然旋律有些忧伤，但总能给我不少慰藉。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;这一年如何总结 痛苦多还是快乐&lt;/p&gt;
+&lt;p&gt;末日还没终结我们&lt;/p&gt;
+&lt;p&gt;这一秒紧紧拥抱 不管明天会如何&lt;/p&gt;
+&lt;p&gt;记得我们曾经爱着&lt;/p&gt;
+&lt;p&gt;爱着&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;不管怎么样，倒计时已经开始。&lt;/p&gt;
+&lt;p&gt;喏，我要去写 2020 年的新年愿望了。&lt;/p&gt;
+</content>
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                        
+                            <category scheme="https://life.zealscott.com/introspection/" term="introspection\" label="introspection\" />
+                        
+                    
+                
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://life.zealscott.com/tags/introspection/" term="introspection" label="introspection" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+</feed>

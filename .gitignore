@@ -1,0 +1,27 @@
+# Hugo build output
+lifeblog_source/public/
+lifeblog_source/resources/
+public/  # Root-level build output from GitHub Actions
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Node modules (if any)
+node_modules/
+
+# Environment files
+.env
+.env.local
+
+# Temporary files
+*.tmp
+*.log
+
